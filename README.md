@@ -41,14 +41,3 @@ https://abc.mcloc.cn/abc/demo/lovepage/
 
 请参阅[Valine官方文档](https://valine.js.org/quickstart.html)。
 
-----------------------------------------------------
-
-网址总导航：www.xiaodao.biz（请添加到浏览器收藏夹）
-
-小刀娱乐网：www.x6d.com / www.x6k.com（主/备）
-
-淘宝优惠券：www.2xb.cn
-
-拼多多找券：pdd.2xb.cn
-
-学习交流QQ群①：595526
