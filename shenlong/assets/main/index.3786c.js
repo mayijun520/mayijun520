@@ -470,7 +470,7 @@ window.__require = function e(t, a, i) {
                  this.xiaojinyuArr = [], this.jinliArr = [], this.dianmanArr = [], this.shayuArr = [], this.jingyuArr = [], 
                  this.jiaoArr = [], this.longArr = [], this.tempArr = [], this.BGArr = [], this.fishScaleX = [], this.fishScaleY = [], this.myFish = null, this.lightFlags = !1, this.boolFlags = !1, this.gameOverFlags = !1, this.canMoveFlags = !0, this.firstFlags = !0, this.BGNode = cc.find("Canvas/bgLayer"), this.scale = .4 * this.SizeScale;
                 for (var e = 0; e < this.playerNode.children.length - 1; e++) this.changeSize(this.playerNode.children[e]);
-                this.playerNode.typeID = 8 /*初始化为1 最大为8*/, 
+                this.playerNode.typeID = 7 /*初始化为1 最大为8*/, 
                 this.createMap(), this.maxCameraMovePosX = Math.abs(this.BGArr[0][this.BGNum - 1].x) - this.gameWidth, 
                 this.maxCameraMovePosY = Math.abs(this.BGArr[0][this.BGNum - 1].y) - this.gameHeight / 2;
                 for (var t = 0; t < this.leafNode.children.length; t++) {
