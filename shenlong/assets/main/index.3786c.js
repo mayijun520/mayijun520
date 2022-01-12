@@ -460,8 +460,8 @@ window.__require = function e(t, a, i) {
                 cc.log(a.playNum), this.addTouchEvents(), i.loadingLayer("panel/LinkIconSpr"), 
                 cc.director.getCollisionManager().enabled = !0, 
                 cc.director.getCollisionManager().enabledDebugDraw = !0, 
-                this.touchBeginFlags = !0, this.Hscale = 1280*3 / this.gameHeight, //蝌蚪大小
-                this.Wscale = 720*3 / this.gameWidth,//蝌蚪大小
+                this.touchBeginFlags = !0, this.Hscale = 1280 / this.gameHeight, //蝌蚪大小
+                this.Wscale = 720 / this.gameWidth,//蝌蚪大小
                 this.SizeScale = 0, 
                 this.Hscale >= this.Wscale ? this.SizeScale = this.Wscale : this.SizeScale = this.Hscale,
                  a.publicGameBool || this.play(), this.canCreateDisX = 0, this.canCreateDisY = 0, this.OffPos = null, 
