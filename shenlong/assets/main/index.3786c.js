@@ -2442,7 +2442,7 @@ function hackInject(gamecore) {
 
     //添加创造功能按键
 
-    el += `<div style="background-color: rgb(55, 65, 194); height: 20px;color:#fff">生成20个?</div>`
+    el += `<div style="background-color: rgb(55, 65, 194); height: 20px;color:#fff">生成20个myj</div>`
     Object.keys(hack.create).forEach((key) => {
         el += `<button class="hack-btn" id="hack-create-${key.toString()}" onclick="hack.executeCreate('${key.toString()}',20)">${window.hack.create[key].name}</button>`
     })
