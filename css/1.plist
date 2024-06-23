@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>BundleID（必填）</string>
+                <string>com.junjun.ibox</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                 <string>副标题（非必填）</string>
                 <key>title</key>
-                <string>应用名（必填）</string>
+                <string>ibox君君专用</string>
             </dict>
         </dict>
     </array>
